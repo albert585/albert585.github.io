@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '张云春的部落阁'
-description: '就一写oc的，正在准备中考。'
+description: '放一些自己的世界观'
 keyword: '张云春, 张云春的部落阁, 张云春的博客,里赛德, 哥萨克, 光遇OC, Auroria, mcmod, albert585'
 url: '' # your host
 
@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: '张云春'
 nickname: '不定最小值'
-bio: ''
+bio: '即将毕业的初中牲，也就一写oc的，正在准备中考。'
 avatar: '/assets/img/profile.png'
 
 # Search
