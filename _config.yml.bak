@@ -24,9 +24,9 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '张云春'
-nickname: '不定最小值'
-bio: '就一写oc的，正在准备中考。'
+author: '廖柯宇'
+nickname: '悟空'
+bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -44,7 +44,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'bilibili']
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -59,7 +59,6 @@ sns:
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/kaeyleo'
-  bilibili: '//space.bilibili.com/299891060'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
