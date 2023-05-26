@@ -4,7 +4,7 @@ title: '陈梦'
 subtitle: 'After Dream'
 date: 2023-05-21
 categories: OC
-tags: AD ,世界观介绍
+tags: AD 世界观介绍
 ---
 
 ~~基于罗小黑战记~~
@@ -27,7 +27,7 @@ tags: AD ,世界观介绍
 
 #### · 里门
 >  _设定版本:AD2.5_ <br>
-> 初设来源于[玲芽之旅](https://zh.moegirl.org.cn/铃芽之旅)
+> 初设来源于[铃芽之旅](https://zh.moegirl.org.cn/铃芽之旅)
 
 ​又叫“往门”是连接三世【外世（现世），常世，里世(世界观所在世界)】
 
