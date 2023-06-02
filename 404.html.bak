@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "此页面被博士吃掉了。 /n或者根本不存在"
+description: "此页面被博士吃掉了。 /n或者不存在"
 ---
 
 {% include header.html %}
