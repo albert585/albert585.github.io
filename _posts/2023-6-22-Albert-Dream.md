@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Albert Dream设定总表'
+title: 'Albert Dream'
 date: 2023-06-22
 categories: OC
 tags: 世界观
